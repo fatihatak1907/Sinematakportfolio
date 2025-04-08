@@ -1,9 +1,0 @@
-# Redirect default Netlify subdomain to primary domain
-# Uncomment and update once you have a custom domain
-# https://sinematak-portfolio.netlify.app/* https://yourdomain.com/:splat 301!
-
-# Handle form submissions
-/success  /  302
-
-# 404 handling
-/*    /index.html   404
